@@ -1,0 +1,25 @@
+{
+  "name": "front-end-starter-pack",
+  "version": "1.0.0",
+  "description": "Setup for speed HTML5 + SCSS + JS development.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arktosk/front-end-starter-pack.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "html",
+    "javascript"
+  ],
+  "author": "Arkadiusz Szymon Krauzowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arktosk/front-end-starter-pack/issues"
+  },
+  "homepage": "https://github.com/arktosk/front-end-starter-pack#readme"
+}
